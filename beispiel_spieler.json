@@ -1,0 +1,10 @@
+{
+  "spieler": [
+    {"name": "Max Müller", "handicap": 35, "klasse": "B", "pool": true, "karambol": false},
+    {"name": "Peter Schmidt", "handicap": 42, "klasse": "B", "pool": true, "karambol": true},
+    {"name": "Hans Weber", "handicap": 28, "klasse": "A", "pool": true, "karambol": false},
+    {"name": "Klaus Fischer", "handicap": 55, "klasse": "C", "pool": true, "karambol": true},
+    {"name": "Thomas Bauer", "handicap": 38, "klasse": "B", "pool": true, "karambol": false},
+    {"name": "Michael Koch", "handicap": 45, "klasse": "B", "pool": true, "karambol": true}
+  ]
+}
